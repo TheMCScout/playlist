@@ -15,7 +15,7 @@ In this unit, coders will create a Playlist. The Playlist will display a list of
 #### GitHub Set-Up
 
 - [x] Go to the repository
-- [ ] Fork this repository to your github account and import to a new workspace
+- [x] Fork this repository to your github account and import to a new workspace
 - [ ] Submit your website using the link on the Agenda
 
 #### Starter Code
